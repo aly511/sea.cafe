@@ -1,4 +1,4 @@
-## https://aly511.github.io/sea.cafe/
+##  aly511.github.io/sea.cafe 
 this website template in htm5 and css3 and javascript for website to view data of cafe and its products and special orders 
 
 ## Welcome to GitHub Pages
