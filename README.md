@@ -1,4 +1,4 @@
-##  aly511.github.io/sea.cafe 
+<a href="https://aly511.github.io/sea.cafe/">website Sea Cafe link to view live</a>
 this website template in htm5 and css3 and javascript for website to view data of cafe and its products and special orders 
 
 ## Welcome to GitHub Pages
